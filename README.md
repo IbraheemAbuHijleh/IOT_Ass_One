@@ -70,3 +70,5 @@ Each group must submit the following:
 - MATLAB code implementing the full simulation with clear documentation
 
 - References (APA or IEEE style) for sensor and system design choices
+
+Grade : 80/100
